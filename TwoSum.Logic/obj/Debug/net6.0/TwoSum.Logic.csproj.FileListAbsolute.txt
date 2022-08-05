@@ -1,0 +1,12 @@
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/bin/Debug/net6.0/TwoSum.Logic.deps.json
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/bin/Debug/net6.0/TwoSum.Logic.dll
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/bin/Debug/net6.0/TwoSum.Logic.pdb
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/obj/Debug/net6.0/TwoSum.Logic.csproj.AssemblyReference.cache
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/obj/Debug/net6.0/TwoSum.Logic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/obj/Debug/net6.0/TwoSum.Logic.AssemblyInfoInputs.cache
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/obj/Debug/net6.0/TwoSum.Logic.AssemblyInfo.cs
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/obj/Debug/net6.0/TwoSum.Logic.csproj.CoreCompileInputs.cache
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/obj/Debug/net6.0/TwoSum.Logic.dll
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/obj/Debug/net6.0/refint/TwoSum.Logic.dll
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/obj/Debug/net6.0/TwoSum.Logic.pdb
+/Users/maksym.tsikalenko/RiderProjects/TwoSum/TwoSum.Logic/obj/Debug/net6.0/ref/TwoSum.Logic.dll
